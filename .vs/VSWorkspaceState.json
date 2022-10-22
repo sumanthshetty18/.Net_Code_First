@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Migrations\\20221017170044_initdata.cs",
+  "PreviewInSolutionExplorer": false
+}
